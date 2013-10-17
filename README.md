@@ -1,4 +1,4 @@
 maven-tycho-typescript-example
 ==============================
 
-An example for 
+An example maven project for https://github.com/palantir/eclipse-typescript/issues/88
